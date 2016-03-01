@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1456493024 source:/home/ic15b081/CodeBlocks/Projekte/Projekt_1_v2_codeBlocks/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+	<unistd.h>
+	<sys/stat.h>
+
+1456768720 source:/media/ic15b081/C40EE5AF0EE59B26/Users/ic15b081/Dropbox/_Projekt_1/Gerald/CodeBlocks_v2/Projekte/Projekt_1_v2_codeBlocks/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+	<unistd.h>
+	<sys/stat.h>
+	<errno.h>
+
+1456774020 source:/home/ic15b081/Dropbox/_Projekt_1/Gerald/CodeBlocks_v2/Projekte/Projekt_1_v2_codeBlocks/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<dirent.h>
+	<string.h>
+	<unistd.h>
+	<sys/stat.h>
+	<errno.h>
+
